@@ -1,0 +1,6 @@
+set tabstop=2
+set expandtab
+syntax on
+set background=dark
+colorscheme ir_black
+set autocompop
